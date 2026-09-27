@@ -7,6 +7,7 @@
 
 #include "plume_d3d12.h"
 
+#include <algorithm>
 #include <unordered_set>
 
 #include <dxgi1_5.h>
